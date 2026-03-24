@@ -71,4 +71,3 @@ The folder contains raw datasets, preprocessed data files, trained model checkpo
 - If the GPU memory is insufficient, appropriately reduce the batch size (adjust based on actual device conditions) while keeping other hyperparameters unchanged.
 
 - The data augmentation module is integrated into the data loading pipeline, and no additional configuration is required for routine reproduction.
-> （注：文档部分内容可能由 AI 生成）
